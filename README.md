@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f3b82,100:38bdf8&text=FALCON&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=GAME%20DEVELOPER&descAlignY=60&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Game+Developer+%E2%80%A2+World+Builder+%E2%80%A2+Problem+Solver;Designing+mechanics+players+can+feel;Turning+ideas+into+playable+experiences)](https://git.io/typing-svg)
+<img src="./assets/banner.svg" width="100%" alt="FALCON — Game Developer">
 
 </div>
 
