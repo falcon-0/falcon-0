@@ -1,21 +1,26 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f3b82,100:38bdf8&text=FALCON&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Building%20ideas%20one%20commit%20at%20a%20time&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f3b82,100:38bdf8&text=FALCON&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=GAME%20DEVELOPER&descAlignY=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Developer+%E2%80%A2+Builder+%E2%80%A2+Curious+Mind;Exploring+JavaScript+and+TypeScript;Learning+by+making+things+that+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Game+Developer+%E2%80%A2+World+Builder+%E2%80%A2+Problem+Solver;Designing+mechanics+players+can+feel;Turning+ideas+into+playable+experiences)](https://git.io/typing-svg)
 
 </div>
 
 ## 👋 About me
 
-I’m **Falcon** — a curious developer who enjoys turning ideas into interactive experiences. I’m currently exploring modern web development, JavaScript, TypeScript, and the systems behind the software we use every day.
+I’m **Falcon**, a game developer focused on turning ideas into playable experiences. I enjoy building mechanics, creating challenges, shaping atmosphere, and finding the small details that make a game feel alive.
 
-- 🔭 Building small projects and sharpening my development skills
-- 🌱 Learning through experimentation and real code
-- ⚡ Interested in web experiences, games, and emulation
-- 🎯 Focused on making every project better than the last
+- 🎮 Main focus: game development and interactive systems
+- 🧠 Interested in gameplay mechanics, player experience, and game feel
+- 🛠️ Learning by prototyping, testing, breaking, and rebuilding
+- 🌐 Web development and other technologies are supporting skills
+- 🎯 Goal: create games people remember after they stop playing
 
-## 🧰 Toolbox
+## 🎮 Core focus
+
+`Gameplay Programming` • `Game Mechanics` • `Prototyping` • `Game Feel` • `Level Design` • `Interactive Storytelling`
+
+## 🧰 Supporting toolbox
 
 <div align="center">
 
@@ -41,7 +46,7 @@ I’m **Falcon** — a curious developer who enjoys turning ideas into interacti
 
 <div align="center">
 
-### Keep building. Keep learning. Keep flying. 🦅
+### Build the world. Break the rules. Make it playable. 🎮
 
 ![Profile views](https://komarev.com/ghpvc/?username=falcon-0&style=flat-square&color=0284c7&label=PROFILE+VIEWS)
 
