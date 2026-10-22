@@ -1,51 +1,59 @@
-<div align="center">
+<!-- PARALLAX HEADER -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Header" />
+</p>
 
-<img src="./assets/banner.svg" width="100%" alt="FALCON — Game Developer">
+<!-- IDENTITY MARQUEE -->
+<p align="center">
+  <img src="https://demolab.com" alt="Typing Marquee" />
+</p>
 
-</div>
-
-## 👋 About me
-
-I’m **Falcon**, a game developer focused on turning ideas into playable experiences. I enjoy building mechanics, creating challenges, shaping atmosphere, and finding the small details that make a game feel alive.
-
-- 🎮 Main focus: game development and interactive systems
-- 🧠 Interested in gameplay mechanics, player experience, and game feel
-- 🛠️ Learning by prototyping, testing, breaking, and rebuilding
-- 🌐 Web development and other technologies are supporting skills
-- 🎯 Goal: create games people remember after they stop playing
-
-## 🎮 Core focus
-
-`Gameplay Programming` • `Game Mechanics` • `Prototyping` • `Game Feel` • `Level Design` • `Interactive Storytelling`
-
-## 🧰 Supporting toolbox
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff)
-
-</div>
-
-## 📊 Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=falcon-0&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1&icon_color=60a5fa" alt="Falcon's GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcon-0&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" alt="Falcon's most used languages">
-
-</div>
+<p align="center">
+  <img src="https://shields.io" alt="Status" />
+  <img src="https://shields.io" alt="Location" />
+  <img src="https://shields.io" alt="Theme" />
+</p>
 
 ---
 
-<div align="center">
+<!-- TWO COLUMN BALANCED GRID -->
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <!-- COLUMN 1: MANIFESTO -->
+    <td width="50%" valign="top" style="border-right: 1px solid #333;">
+      <h3>🌌 The Core Blueprint</h3>
+      <p>Driven by curiosity, fueled by logic, and obsessed with optimization. This space serves as an open sandbox for experimentation, structural layouts, and clean automation pipelines.</p>
+      <br />
+      <b>Current Directives:</b>
+      <ul>
+        <li>🔬 Exploring non-linear system mechanics.</li>
+        <li>🧬 Integrating decoupled architecture.</li>
+        <li>🔮 Merging raw utility with visual balance.</li>
+      </ul>
+    </td>
+    <!-- COLUMN 2: DECORATIVE TERMINAL GRAPHIC -->
+    <td width="50%" align="center" valign="middle">
+      <img src="https://giphy.com" width="260px" alt="Terminal Visualizer" style="border-radius: 8px; border: 1px solid #00FFCC;" />
+    </td>
+  </tr>
+</table>
 
-### Build the world. Break the rules. Make it playable. 🎮
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=falcon-0&style=flat-square&color=0284c7&label=PROFILE+VIEWS)
+<!-- INTERACTIVE COLLAPSIBLE ACCORDION -->
+<details>
+  <summary><b>📐 View Structural Components (Click to Expand)</b></summary>
+  <br />
+  <p>This layout operates entirely on standardized, embedded HTML rendering wrappers. It avoids high-friction frameworks to ensure maximum platform performance and uniform delivery across cross-platform screens.</p>
+</details>
 
-</div>
+---
+
+<!-- GEOMETRIC FOOTER -->
+<p align="center">
+  <img src="https://vercel.app%" width="100%" alt="Footer Line" />
+</p>
+
+<p align="center">
+  <sub>🧬 <code>System Node: //Root</code> — Generated dynamically. All rights reserved.</sub>
+</p>
